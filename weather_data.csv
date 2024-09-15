@@ -1,32 +1,30 @@
-Date,City,Country,Local Time,Max Temp (C),Min Temp (C),Avg Temp (C),Max Wind (MPH),Total Precipitation (MM),Average Humidity,Condition
-2024-08-11,Ho Chi Minh City,Vietnam,2024-09-14 10:39,33.6,25.5,29.2,10.3,0.56,7.0,Light drizzle
-2024-08-12,Ho Chi Minh City,Vietnam,2024-09-14 10:39,32.8,25.2,28.9,11.9,6.28,7.0,Light rain shower
-2024-08-13,Ho Chi Minh City,Vietnam,2024-09-14 10:39,33.5,25.1,28.8,11.2,6.71,7.0,Light rain shower
-2024-08-14,Ho Chi Minh City,Vietnam,2024-09-14 10:39,34.4,25.7,29.1,6.5,0.62,7.0,Light rain shower
-2024-08-15,Ho Chi Minh City,Vietnam,2024-09-14 10:39,34.3,25.9,29.6,8.3,0.74,7.0,Light drizzle
-2024-08-16,Ho Chi Minh City,Vietnam,2024-09-14 10:39,33.4,25.8,28.8,7.2,2.77,7.0,Light rain shower
-2024-08-17,Ho Chi Minh City,Vietnam,2024-09-14 10:39,33.6,25.6,28.8,6.9,1.2,7.0,Light rain shower
-2024-08-18,Ho Chi Minh City,Vietnam,2024-09-14 10:39,35.0,25.5,29.4,8.1,0.98,7.0,Light rain shower
-2024-08-19,Ho Chi Minh City,Vietnam,2024-09-14 10:39,34.0,25.8,29.3,7.6,0.78,7.0,Patchy light drizzle
-2024-08-20,Ho Chi Minh City,Vietnam,2024-09-14 10:39,34.4,25.9,29.3,6.7,0.87,7.0,Light drizzle
-2024-08-21,Ho Chi Minh City,Vietnam,2024-09-14 10:39,34.0,25.6,28.8,6.9,1.67,7.0,Patchy light drizzle
-2024-08-22,Ho Chi Minh City,Vietnam,2024-09-14 10:39,33.9,25.8,29.0,10.5,1.37,7.0,Light rain shower
-2024-08-23,Ho Chi Minh City,Vietnam,2024-09-14 10:39,35.1,26.2,29.5,9.8,3.42,8.0,Light rain shower
-2024-08-24,Ho Chi Minh City,Vietnam,2024-09-14 10:39,35.2,25.7,29.2,8.1,4.37,8.0,Light rain shower
-2024-08-25,Ho Chi Minh City,Vietnam,2024-09-14 10:40,32.8,25.5,28.6,7.6,2.06,7.0,Light rain shower
-2024-08-26,Ho Chi Minh City,Vietnam,2024-09-14 10:40,31.8,24.6,27.3,11.9,15.3,7.0,Light rain shower
-2024-08-27,Ho Chi Minh City,Vietnam,2024-09-14 10:40,30.6,24.8,26.5,6.3,9.14,7.0,Light rain shower
-2024-08-28,Ho Chi Minh City,Vietnam,2024-09-14 10:40,30.4,24.9,27.0,14.5,10.26,7.0,Light rain shower
-2024-08-29,Ho Chi Minh City,Vietnam,2024-09-14 10:40,26.6,24.3,25.3,10.1,15.95,6.0,Light rain shower
-2024-08-30,Ho Chi Minh City,Vietnam,2024-09-14 10:40,27.7,24.6,25.9,11.2,1.46,6.0,Light rain shower
-2024-08-31,Ho Chi Minh City,Vietnam,2024-09-14 10:40,31.0,24.7,27.0,9.2,6.07,7.0,Light rain shower
-2024-09-01,Ho Chi Minh City,Vietnam,2024-09-14 10:40,28.4,24.3,25.4,5.4,23.36,6.0,Moderate or heavy rain shower
-2024-09-02,Ho Chi Minh City,Vietnam,2024-09-14 10:40,26.4,24.2,25.0,9.4,9.4,6.0,Light rain shower
-2024-09-03,Ho Chi Minh City,Vietnam,2024-09-14 10:40,28.5,23.9,25.1,14.3,12.84,6.0,Light rain shower
-2024-09-04,Ho Chi Minh City,Vietnam,2024-09-14 10:40,31.5,25.1,27.1,14.3,7.23,7.0,Light rain shower
-2024-09-05,Ho Chi Minh City,Vietnam,2024-09-14 10:40,30.3,24.3,26.7,15.4,13.43,7.0,Light rain shower
-2024-09-06,Ho Chi Minh City,Vietnam,2024-09-14 10:40,29.5,25.2,26.9,14.1,7.67,6.0,Light rain shower
-2024-09-07,Ho Chi Minh City,Vietnam,2024-09-14 10:40,31.3,25.4,27.5,14.8,10.57,7.0,Light rain shower
-2024-09-08,Ho Chi Minh City,Vietnam,2024-09-14 10:40,31.7,25.1,27.7,13.0,1.1,7.0,Light rain shower
-2024-09-09,Ho Chi Minh City,Vietnam,2024-09-14 10:40,33.6,24.9,28.3,11.4,0.44,7.0,Patchy rain possible
-2024-09-10,Ho Chi Minh City,Vietnam,2024-09-14 10:40,32.4,25.2,28.1,8.3,1.87,7.0,Patchy rain possible
+Date,City,Country,Local Time,Latitude,Longitude,Max Temp (C),Min Temp (C),Avg Temp (C),Max Wind (MPH),Total Precipitation (MM),Average Humidity,Condition
+2024-08-11,Ho Chi Minh City,Vietnam,2024-09-15 09:38,10.75,106.67,33.6,25.5,29.2,10.3,0.56,7.0,Light drizzle
+2024-08-12,Ho Chi Minh City,Vietnam,2024-09-15 09:38,10.75,106.67,32.8,25.2,28.9,11.9,6.28,7.0,Light rain shower
+2024-08-13,Ho Chi Minh City,Vietnam,2024-09-15 09:38,10.75,106.67,33.5,25.1,28.8,11.2,6.71,7.0,Light rain shower
+2024-08-14,Ho Chi Minh City,Vietnam,2024-09-15 09:38,10.75,106.67,34.4,25.7,29.1,6.5,0.62,7.0,Light rain shower
+2024-08-15,Ho Chi Minh City,Vietnam,2024-09-15 09:38,10.75,106.67,34.3,25.9,29.6,8.3,0.74,7.0,Light drizzle
+2024-08-18,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,35.0,25.5,29.4,8.1,0.98,7.0,Light rain shower
+2024-08-19,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,34.0,25.8,29.3,7.6,0.78,7.0,Patchy light drizzle
+2024-08-20,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,34.4,25.9,29.3,6.7,0.87,7.0,Light drizzle
+2024-08-21,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,34.0,25.6,28.8,6.9,1.67,7.0,Patchy light drizzle
+2024-08-22,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,33.9,25.8,29.0,10.5,1.37,7.0,Light rain shower
+2024-08-23,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,35.1,26.2,29.5,9.8,3.42,8.0,Light rain shower
+2024-08-24,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,35.2,25.7,29.2,8.1,4.37,8.0,Light rain shower
+2024-08-25,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,32.8,25.5,28.6,7.6,2.06,7.0,Light rain shower
+2024-08-26,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,31.8,24.6,27.3,11.9,15.3,7.0,Light rain shower
+2024-08-27,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,30.6,24.8,26.5,6.3,9.14,7.0,Light rain shower
+2024-08-28,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,30.4,24.9,27.0,14.5,10.26,7.0,Light rain shower
+2024-08-29,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,26.6,24.3,25.3,10.1,15.95,6.0,Light rain shower
+2024-08-30,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,27.7,24.6,25.9,11.2,1.46,6.0,Light rain shower
+2024-08-31,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,31.0,24.7,27.0,9.2,6.07,7.0,Light rain shower
+2024-09-01,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,28.4,24.3,25.4,5.4,23.36,6.0,Moderate or heavy rain shower
+2024-09-02,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,26.4,24.2,25.0,9.4,9.4,6.0,Light rain shower
+2024-09-03,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,28.5,23.9,25.1,14.3,12.84,6.0,Light rain shower
+2024-09-04,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,31.5,25.1,27.1,14.3,7.23,7.0,Light rain shower
+2024-09-05,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,30.3,24.3,26.7,15.4,13.43,7.0,Light rain shower
+2024-09-06,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,29.5,25.2,26.9,14.1,7.67,6.0,Light rain shower
+2024-09-07,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,31.3,25.4,27.5,14.8,10.57,7.0,Light rain shower
+2024-09-08,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,31.7,25.1,27.7,13.0,1.1,7.0,Light rain shower
+2024-09-09,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,33.6,24.9,28.3,11.4,0.44,7.0,Patchy rain possible
+2024-09-10,Ho Chi Minh City,Vietnam,2024-09-15 09:39,10.75,106.67,32.4,25.2,28.1,8.3,1.87,7.0,Patchy rain possible

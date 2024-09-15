@@ -31,6 +31,8 @@ while current_date < end_date:
             rsp['location']['name'],
             rsp['location']['country'],
             rsp['location']['localtime'],
+            rsp['location']['lat'],
+            rsp['location']['lon'],
             day_data['maxtemp_c'],
             day_data['mintemp_c'],
             day_data['avgtemp_c'],
@@ -41,7 +43,7 @@ while current_date < end_date:
         ])
         
         # Print details
-        print(f'Date: {date_str}, City: {rsp["location"]["name"]}, Country: {rsp["location"]["country"]}, Local Time: {rsp["location"]["localtime"]}')
+        print(f'Date: {date_str}, City: {rsp["location"]["name"]}, Country: {rsp["location"]["country"]}, Local Time: {rsp["location"]["localtime"]}, Latitude: {rsp["location"]["lat"]} ,Longitude: {rsp["location"]["lon"]}')
     
     except Exception as e:
         print(f"Failed to fetch data for {date_str}: {e}")
@@ -52,7 +54,7 @@ while current_date < end_date:
 # Define the CSV file name and header
 csv_file = 'weather_data.csv'
 header = [
-    'Date', 'City', 'Country', 'Local Time', 'Max Temp (C)', 'Min Temp (C)', 'Avg Temp (C)', 
+    'Date', 'City', 'Country', 'Local Time','Latitude', 'Longitude' , 'Max Temp (C)', 'Min Temp (C)', 'Avg Temp (C)', 
     'Max Wind (MPH)', 'Total Precipitation (MM)', 'Average Humidity', 'Condition'
 ]
 
